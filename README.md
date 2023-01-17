@@ -12,6 +12,7 @@
 
 # 2번 : (Image) 미술품의 양식 분류
 - 각 미술품의 이미지를 통해 미술양식을 분류하는 문제
+- Image Data Augmentation을 진행 후 Training 진행
 - BEiT를 Training하여 미술품 데이터를 Classification
 - f1 score : 0.70341(Private), 18명 중 1등
 - Kaggle Link : https://www.kaggle.com/competitions/jbnu-bigdata2022-image
